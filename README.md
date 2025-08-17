@@ -8,22 +8,12 @@ A personal roadmap to track my journey from Level 1 to 100 in the world of Data 
 
 </div>
 
----
-
-### 🎯 **How to Use This Roadmap**
-
-1.  **Update Your Level:** Edit the image URL above to reflect your current level.
-2.  **Track Projects:** As you complete a project, mark the checkbox next to it by changing `[ ]` to `[x]`.
-3.  **Expand Sections:** Click on any level range to see the projects within it.
-
----
-
 ## 🌱 Levels 1-20: Beginner Projects
 
 <details>
 <summary><strong>Click to expand/collapse</strong></summary>
 
-- [ ] Data cleaning and visualization with Python
+- [x] Data cleaning and visualization with Python
 - [ ] Student performance analysis (Excel, Pandas)
 - [ ] Simple exploratory studies (Iris dataset, Titanic dataset)
 - [ ] Basic classification (flower, wine, heart disease, etc.)
